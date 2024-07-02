@@ -1,0 +1,189 @@
+.turnback .turnback__button{
+    position: relative;
+    cursor: pointer;
+    left:9rem;
+    top:3rem;
+    border:1px solid green;
+    background-color:brown;
+    width:40px;
+    height:40px;
+     border-radius: 50px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+}
+.turnback .delete__button{
+    position: relative;
+    left:10rem;
+    top:3rem;
+    border:1px solid green;
+    background-color:brown;
+    width:40px;
+    height:40px;
+     border-radius: 50px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    cursor: pointer;
+}
+.turnback .download__button{
+    background-color:blueviolet;
+    color:white;
+    position: relative;
+    width:10%;
+    height:5%;
+    left:70%;
+    top:2.5rem;
+    cursor: pointer;
+}
+.canvasdesign{
+    background-color: aliceblue;
+    position: relative;
+    text-align: left;
+    top:5rem;
+    left:5rem;
+    width:15%;
+    height:60%;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+
+    
+    
+}
+.canvasdesign .square{
+    position: relative;
+    width:20%;
+    height:10%;
+    left:2rem;
+    top:2rem;
+    cursor: pointer;
+
+}
+.canvasdesign .circle{
+    position: relative;
+    width: 20%;
+    height: 10%;
+    left:7rem;
+    top:-0.1rem;
+    cursor: pointer;;
+
+}
+.canvasdesign .triangle{
+    position: relative;
+    width: 20%;
+    height: 10%;
+    left:2rem;
+    top:2rem;
+    cursor: pointer;
+}
+.canvasdesign .star{
+
+    position: relative;
+    width: 20%;
+    height: 10%;
+    left:7rem;
+    top:-0.1rem;
+    cursor: pointer;
+}
+.canvasdesign .text{
+    position: relative;
+    width: 20%;
+    height: 10%;
+    left:2rem;
+    top:2rem;
+    cursor: pointer;
+}
+.canvasdesign .eraser{
+    position: relative;
+    width: 20%;
+    height: 10%;
+    left:7rem;
+    top:-0.1rem;
+    cursor: pointer;
+}
+.canvasdesign .fill{
+    position: relative;
+    width: 20%;
+    height:10%;
+    left:2rem;
+    top:2rem;
+    cursor: pointer;
+
+}
+.canvasdesign .pencil{
+    position: relative;
+    width: 20%;
+    height: 10%;
+    left:7rem;
+    top:-0.1rem;
+    cursor: pointer;
+}
+.canvasdesign .slash{
+    position: relative;
+    width: 20%;
+    height: 10%;
+    left:2rem;
+    top:2rem;
+    cursor: pointer;
+}
+.canvasdesign .pen{
+
+    position: relative;
+    width: 20%;
+    height: 10%;
+    left:7rem;
+    top:-0.1rem;
+    cursor: pointer;
+}
+.canvasdesign .selected{
+    position: relative;
+    width: 20%;
+    height: 10%;
+    top:3rem;
+    left:3rem;
+    cursor: pointer;
+}
+.canvasdesign .color{
+    position: relative;
+    width: 40%;
+    height: 25%;
+    left:8.5rem;
+    cursor: pointer;
+}
+.rounded0{
+    background-color: whitesmoke;
+    position: absolute;
+    top:8rem;
+    left:20rem;
+}
+.turnback .cizim__text{
+    position:absolute;
+    left:45rem;
+    top:-1rem;
+    color:cyan;
+}
+.turnback .text3{
+    position: absolute;
+    left:26rem;
+    top:3.5rem;
+    font-size: 2.5ch;
+}
+.turnback .random__text{
+    color:darkred;
+    position:absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 3ch;
+    background-color: aliceblue;
+    width: 20%;
+    height: 5%;
+    left:37rem;
+}
+.turnback .yaziyi__degistir{
+    background-color:firebrick;
+    color:whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    left:58rem;
+    top:4.8rem;
+    cursor: pointer;
+}
